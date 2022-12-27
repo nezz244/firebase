@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634781864674",
+    "project_id": "theone-fc923",
+    "storage_bucket": "theone-fc923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634781864674:android:138216fd3ab9dcacc244bb",
+        "android_client_info": {
+          "package_name": "com.example.theone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634781864674-tcl8f7pkiaji4uhavv177qfvq6abjgr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRgN22E06ZtsH42cH0vlbEx0XDk2D3bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634781864674-tcl8f7pkiaji4uhavv177qfvq6abjgr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
